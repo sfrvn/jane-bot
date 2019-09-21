@@ -1,0 +1,8 @@
+# Environments
+.env
+
+# Pyre type checker
+.DS_Store
+
+# Git
+.gitattributes
