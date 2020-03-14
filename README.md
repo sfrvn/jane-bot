@@ -17,7 +17,7 @@ My bot was hosted on [Heroku](https://heroku.com), if desired, you can also do i
 $ python3 main.py
 ``
 
-You can also watch a demo of the bot [here](https://vimeo.com/364302218).
+You can also watch a video-demo of the bot [here](https://vimeo.com/364302218).
 
 ## Джейн-бот (rus)
 
@@ -34,8 +34,8 @@ You can also watch a demo of the bot [here](https://vimeo.com/364302218).
 
 ### Пример запуска
 
-```
+``
 $ python3 main.py
-```
+``
 
-Вы также можете посмотреть демонстрацию работы бота [здесь](https://vimeo.com/364302218).
+Вы также можете посмотреть видео-демонстрацию работы бота [здесь](https://vimeo.com/364302218).
