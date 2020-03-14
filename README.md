@@ -9,7 +9,7 @@ To start the bot, look in Telegram [@jane_whybot](https://t.me/jane_whybot). If 
 To make the code work on your computer, you will have to create your bot and get a token. To do this, write [@BotFather](https://t.me/BotFather).  
 
 After receiving the token, you need to create in the root of the project `.env`-file where you assign the value of your token to the variable `TELEGRAM_BOT_TOKEN`. After that run `main.py` in your terminal, and the bot will start its work until you stop the script execution.  
-My bot is currently hosted on [Heroku](https://heroku.com), if desired, you can also do it, and run the script on your PC is not required.
+My bot was hosted on [Heroku](https://heroku.com), if desired, you can also do it, and run the script on your PC is not required.
 
 ### Startup example
 
@@ -30,7 +30,7 @@ You can also watch a demo of the bot [here](https://vimeo.com/364302218).
 Чтобы код работал на вашем компьютере, придётся создать своего бота и получить токен. Для этого напишите [@BotFather](https://t.me/BotFather).
 
 После получения токена необходимо в корне проекта создать .env-файл, в котором вы присвоите значение своего токена переменной `TELEGRAM_BOT_TOKEN`. После этого запустите файл в терминале `main.py`, и бот начнёт свою работу, пока вы не остановите выполнение скрипта.  
-Мой бот сейчас хостится на [Heroku](https://heroku.com), при желании вы тоже можете это сделать, и запуск скрипта на вашем ПК не потребуется.
+Мой бот хостился на [Heroku](https://heroku.com), при желании вы тоже можете это сделать, и запуск скрипта на вашем ПК не потребуется.
 
 ### Пример запуска
 
